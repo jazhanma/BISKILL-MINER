@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.hf_cache/
+data/index/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.DS_Store
+
+# Optional: user-built DROID slice (rebuild with scripts/build_droid_subset.py)
+# data/droid_episodes.json

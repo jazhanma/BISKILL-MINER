@@ -1,0 +1,1902 @@
+[
+  {
+    "episode_id": "aist_0001",
+    "task_name": "insert washer shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): insert washer shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "washer shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0002",
+    "task_name": "fit large gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): fit gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0003",
+    "task_name": "fit small gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): fit gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0004",
+    "task_name": "insert usb cable",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert usb cable. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "usb cable"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0005",
+    "task_name": "insert usb cable fix parts",
+    "description": "AIST bimanual manipulation demonstration (independent): insert usb cable. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "usb cable"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0006",
+    "task_name": "insert usb cable fixed by robot",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert usb cable. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "usb cable"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0007",
+    "task_name": "insert usb pcbox",
+    "description": "AIST bimanual manipulation demonstration (independent): insert usb pcbox. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "usb pcbox"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0008",
+    "task_name": "insert large gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): insert gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0009",
+    "task_name": "insert small gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): insert gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0010",
+    "task_name": "find insert large gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): find gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0011",
+    "task_name": "find insert small gear shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): find gear shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "gear shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0012",
+    "task_name": "hook cable 8pin",
+    "description": "AIST bimanual manipulation demonstration (independent): hook cable 8pin. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "cable 8pin"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0013",
+    "task_name": "hook cable narrow 8pin",
+    "description": "AIST bimanual manipulation demonstration (independent): hook cable 8pin. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "cable",
+      "8pin"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0014",
+    "task_name": "insert usb port hub",
+    "description": "AIST bimanual manipulation demonstration (independent): insert usb port hub. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 150 teleop episodes available.",
+    "objects": [
+      "usb port hub"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.815
+  },
+  {
+    "episode_id": "aist_0015",
+    "task_name": "insert wire loop",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert wire loop. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 600 teleop episodes available.",
+    "objects": [
+      "wire loop"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.895
+  },
+  {
+    "episode_id": "aist_0016",
+    "task_name": "insert rod board",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert rod board. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 30 teleop episodes available.",
+    "objects": [
+      "rod board"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.735
+  },
+  {
+    "episode_id": "aist_0017",
+    "task_name": "insert rod moved board",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert rod board. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 60 teleop episodes available.",
+    "objects": [
+      "rod",
+      "board"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.755
+  },
+  {
+    "episode_id": "aist_0018",
+    "task_name": "insert wire metal fitting",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert wire metal fitting. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 30 teleop episodes available.",
+    "objects": [
+      "wire metal fitting"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.735
+  },
+  {
+    "episode_id": "aist_0019",
+    "task_name": "insert wire marked metal fitting",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert wire metal fitting. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 120 teleop episodes available.",
+    "objects": [
+      "wire",
+      "metal fitting"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.795
+  },
+  {
+    "episode_id": "aist_0020",
+    "task_name": "insert usb cable board",
+    "description": "AIST bimanual manipulation demonstration (independent): insert usb cable board. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "usb cable board"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0021",
+    "task_name": "put cup holder right arm",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): put cup holder. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 60 teleop episodes available.",
+    "objects": [
+      "cup holder"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.755
+  },
+  {
+    "episode_id": "aist_0022",
+    "task_name": "put cup moved holder",
+    "description": "AIST bimanual manipulation demonstration (unimanual): put cup holder. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 30 teleop episodes available.",
+    "objects": [
+      "cup",
+      "holder"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.735
+  },
+  {
+    "episode_id": "aist_0023",
+    "task_name": "put cup moved red handle holder",
+    "description": "AIST bimanual manipulation demonstration (unimanual): put cup red handle holder. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "cup",
+      "red handle holder"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0024",
+    "task_name": "put tape in basket",
+    "description": "AIST bimanual manipulation demonstration (unimanual): put basket. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 60 teleop episodes available.",
+    "objects": [
+      "basket"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.755
+  },
+  {
+    "episode_id": "aist_0025",
+    "task_name": "put tape white case alternating arms",
+    "description": "AIST bimanual manipulation demonstration (unimanual): put white case arms. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "white case",
+      "arms"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0026",
+    "task_name": "put tape white case left arm",
+    "description": "AIST bimanual manipulation demonstration (independent): put white case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "white case"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0027",
+    "task_name": "put tape white case right arm",
+    "description": "AIST bimanual manipulation demonstration (independent): put white case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "white case"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0028",
+    "task_name": "insert washer shaft both hands",
+    "description": "AIST bimanual manipulation demonstration (independent): insert washer shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 130 teleop episodes available.",
+    "objects": [
+      "washer shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.802
+  },
+  {
+    "episode_id": "aist_0029",
+    "task_name": "pass usb cable three rings",
+    "description": "AIST bimanual manipulation demonstration (independent): pass usb cable three rings. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "usb cable three rings"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0030",
+    "task_name": "handover metallic zip bag upright",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): handover zip bag. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 94 teleop episodes available.",
+    "objects": [
+      "zip bag"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.778
+  },
+  {
+    "episode_id": "aist_0031",
+    "task_name": "handover clear zip bag upright",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): handover zip bag. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 30 teleop episodes available.",
+    "objects": [
+      "zip bag"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.735
+  },
+  {
+    "episode_id": "aist_0032",
+    "task_name": "take out reel clear zip bag",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): take out reel zip bag. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 60 teleop episodes available.",
+    "objects": [
+      "out reel",
+      "zip bag"
+    ],
+    "skills": [
+      "pulling",
+      "hold_and_manipulate",
+      "container_interaction"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.755
+  },
+  {
+    "episode_id": "aist_0033",
+    "task_name": "peel off magic tape",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): peel off magic. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "off magic"
+    ],
+    "skills": [
+      "contact_rich_motion",
+      "force_control",
+      "deformable_object_handling",
+      "delicate_grasp",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0034",
+    "task_name": "peel duct tape",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): peel duct. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "duct"
+    ],
+    "skills": [
+      "contact_rich_motion",
+      "force_control",
+      "deformable_object_handling",
+      "delicate_grasp",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0035",
+    "task_name": "sliding the gears",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): sliding gears. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "gears"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0036",
+    "task_name": "insert gear onto shaft sliding",
+    "description": "AIST bimanual manipulation demonstration (unimanual): insert gear shaft. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "gear",
+      "shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0037",
+    "task_name": "place tape case",
+    "description": "AIST bimanual manipulation demonstration (independent): place case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 30 teleop episodes available.",
+    "objects": [
+      "case"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.735
+  },
+  {
+    "episode_id": "aist_0038",
+    "task_name": "place random tape case",
+    "description": "AIST bimanual manipulation demonstration (independent): place case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 130 teleop episodes available.",
+    "objects": [
+      "case"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.802
+  },
+  {
+    "episode_id": "aist_0039",
+    "task_name": "lift board",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift board. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "board"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0040",
+    "task_name": "lift metal rail",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift metal rail. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 148 teleop episodes available.",
+    "objects": [
+      "metal rail"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.814
+  },
+  {
+    "episode_id": "aist_0041",
+    "task_name": "lift large metal rail",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift metal rail. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "metal rail"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0042",
+    "task_name": "lift white case",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift white case. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "white case"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0043",
+    "task_name": "lift white basket",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift white basket. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "white basket"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0044",
+    "task_name": "insert lan cable into the hub",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): insert lan cable hub. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "lan cable",
+      "hub"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0045",
+    "task_name": "pick box plastic case",
+    "description": "AIST bimanual manipulation demonstration (independent): pick box plastic case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "box plastic case"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0046",
+    "task_name": "pick box cardboard box",
+    "description": "AIST bimanual manipulation demonstration (independent): pick box cardboard box. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 108 teleop episodes available.",
+    "objects": [
+      "box cardboard box"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.787
+  },
+  {
+    "episode_id": "aist_0047",
+    "task_name": "pick box randomly placed in cardboard box",
+    "description": "AIST bimanual manipulation demonstration (independent): pick box cardboard box. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 60 teleop episodes available.",
+    "objects": [
+      "box",
+      "cardboard box"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.755
+  },
+  {
+    "episode_id": "aist_0048",
+    "task_name": "handover blue block",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): handover blue block. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 200 teleop episodes available.",
+    "objects": [
+      "blue block"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.848
+  },
+  {
+    "episode_id": "aist_0049",
+    "task_name": "lift place clamped box lid",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift clamped box lid. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "clamped box lid"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0050",
+    "task_name": "remove box from case",
+    "description": "AIST bimanual manipulation demonstration (unimanual): remove box case. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "box",
+      "case"
+    ],
+    "skills": [
+      "pulling",
+      "force_control",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0051",
+    "task_name": "remove box from case both hands",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): remove box case. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "box",
+      "case"
+    ],
+    "skills": [
+      "pulling",
+      "force_control",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0052",
+    "task_name": "remove box from case left arm",
+    "description": "AIST bimanual manipulation demonstration (independent): remove box case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "box",
+      "case"
+    ],
+    "skills": [
+      "pulling",
+      "force_control",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0053",
+    "task_name": "remove box from case right arm",
+    "description": "AIST bimanual manipulation demonstration (independent): remove box case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "box",
+      "case"
+    ],
+    "skills": [
+      "pulling",
+      "force_control",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0054",
+    "task_name": "lift clamped cardboard box",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift clamped cardboard box. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "clamped cardboard box"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0055",
+    "task_name": "place clamped cardboard box stand",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): place clamped cardboard box stand. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 81 teleop episodes available.",
+    "objects": [
+      "clamped cardboard box stand"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.769
+  },
+  {
+    "episode_id": "aist_0056",
+    "task_name": "hook rubber shaft",
+    "description": "AIST bimanual manipulation demonstration (independent): hook rubber shaft. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "rubber shaft"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0057",
+    "task_name": "insert shaft into gear",
+    "description": "AIST bimanual manipulation demonstration (independent): insert shaft gear. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "shaft",
+      "gear"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0058",
+    "task_name": "find hole and insert into gear",
+    "description": "AIST bimanual manipulation demonstration (independent): find hole gear. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "hole",
+      "gear"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.782
+  },
+  {
+    "episode_id": "aist_0059",
+    "task_name": "insert random shaft random medium gear",
+    "description": "AIST bimanual manipulation demonstration (independent): insert shaft gear. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 300 teleop episodes available.",
+    "objects": [
+      "shaft",
+      "gear"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.895
+  },
+  {
+    "episode_id": "aist_0060",
+    "task_name": "insert random shaft random small gear",
+    "description": "AIST bimanual manipulation demonstration (independent): insert shaft gear. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 300 teleop episodes available.",
+    "objects": [
+      "shaft",
+      "gear"
+    ],
+    "skills": [
+      "precision_placement",
+      "force_control",
+      "container_interaction",
+      "contact_rich_motion",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.895
+  },
+  {
+    "episode_id": "aist_0061",
+    "task_name": "place soldering iron on marker",
+    "description": "AIST bimanual manipulation demonstration (independent): place soldering iron. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "soldering iron"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0062",
+    "task_name": "open cap bottle",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): open cap bottle. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "cap bottle"
+    ],
+    "skills": [
+      "opening",
+      "twisting",
+      "force_control",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0063",
+    "task_name": "wipe the desk with an orange cloth",
+    "description": "AIST bimanual manipulation demonstration (independent): wipe desk orange cloth. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "desk",
+      "orange cloth"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "contact_rich_motion",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0064",
+    "task_name": "wipe the desk with a yellow cloth",
+    "description": "AIST bimanual manipulation demonstration (independent): wipe desk yellow cloth. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "desk",
+      "yellow cloth"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "contact_rich_motion",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0065",
+    "task_name": "wipe the desk with a blue cloth",
+    "description": "AIST bimanual manipulation demonstration (independent): wipe desk blue cloth. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "desk",
+      "blue cloth"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "contact_rich_motion",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0066",
+    "task_name": "brush screws into dustpan human brush left hold",
+    "description": "AIST bimanual manipulation demonstration (collaboration): brush screws dustpan. Human-robot collaboration: one arm provides passive support while the human acts. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "screws",
+      "dustpan"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "bimanual_stabilize",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "support_and_manipulate",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0067",
+    "task_name": "brush screws into dustpan left brush human hold",
+    "description": "AIST bimanual manipulation demonstration (collaboration): brush screws dustpan. Human-robot collaboration: one arm provides passive support while the human acts. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "screws",
+      "dustpan"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "bimanual_stabilize",
+      "contact_rich_motion"
+    ],
+    "coordination_type": "support_and_manipulate",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0068",
+    "task_name": "place the slippers",
+    "description": "AIST bimanual manipulation demonstration (independent): place slippers. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "slippers"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0069",
+    "task_name": "place soldering iron and solder on marker",
+    "description": "AIST bimanual manipulation demonstration (unimanual): place soldering iron solder. Only one arm is task-relevant; the other is idle. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "soldering iron",
+      "solder"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "single_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0070",
+    "task_name": "hit mark with hammer",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): hit mark hammer. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "mark",
+      "hammer"
+    ],
+    "skills": [
+      "contact_rich_motion",
+      "force_control",
+      "tool_use",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0071",
+    "task_name": "wipe the desk with a sponge",
+    "description": "AIST bimanual manipulation demonstration (independent): wipe desk sponge. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "desk",
+      "sponge"
+    ],
+    "skills": [
+      "wiping",
+      "tool_use",
+      "contact_rich_motion",
+      "bimanual_stabilize"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0072",
+    "task_name": "place the chinese spoons on the cloth",
+    "description": "AIST bimanual manipulation demonstration (independent): place chinese spoons cloth. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "chinese spoons",
+      "cloth"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0073",
+    "task_name": "fold blue towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold blue towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 200 teleop episodes available.",
+    "objects": [
+      "blue towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.863
+  },
+  {
+    "episode_id": "aist_0074",
+    "task_name": "fold yellow towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold yellow towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "yellow towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0075",
+    "task_name": "pick up slipper from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up slipper shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up slipper",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0076",
+    "task_name": "pick up cellophane tape from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up cellophane shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up cellophane",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0077",
+    "task_name": "pick up dustpan from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up dustpan shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up dustpan",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0078",
+    "task_name": "pick up hand brush from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up hand shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up hand",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0079",
+    "task_name": "pick up tape dispenser from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up dispenser shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up",
+      "dispenser",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0080",
+    "task_name": "pick up chinese spoon from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up chinese shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up chinese",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0081",
+    "task_name": "pick up orange cloth from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up orange cloth shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up orange cloth",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0082",
+    "task_name": "pick up blue cloth from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up blue cloth shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up blue cloth",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0083",
+    "task_name": "pick up yellow cloth from shopping basket",
+    "description": "AIST bimanual manipulation demonstration (independent): pick up yellow cloth shopping basket. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "up yellow cloth",
+      "shopping basket"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0084",
+    "task_name": "open toolbox",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): open toolbox. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "toolbox"
+    ],
+    "skills": [
+      "opening",
+      "twisting",
+      "force_control",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0085",
+    "task_name": "close toolbox",
+    "description": "AIST bimanual manipulation demonstration (independent): close toolbox. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "toolbox"
+    ],
+    "skills": [
+      "opening",
+      "force_control",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0086",
+    "task_name": "pick nipper from toolbox",
+    "description": "AIST bimanual manipulation demonstration (independent): pick nipper toolbox. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "nipper",
+      "toolbox"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0087",
+    "task_name": "pick screwdriver from toolbox",
+    "description": "AIST bimanual manipulation demonstration (independent): pick screwdriver toolbox. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "screwdriver",
+      "toolbox"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0088",
+    "task_name": "place orange towel container",
+    "description": "AIST bimanual manipulation demonstration (independent): place orange towel container. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "orange towel container"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0089",
+    "task_name": "close cardboard box",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): close cardboard box. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "cardboard box"
+    ],
+    "skills": [
+      "opening",
+      "force_control",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0090",
+    "task_name": "tape closed cardboard",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): tape closed cardboard. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "closed cardboard"
+    ],
+    "skills": [
+      "tool_use",
+      "deformable_object_handling",
+      "precision_placement",
+      "force_control",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0091",
+    "task_name": "place blue towel container",
+    "description": "AIST bimanual manipulation demonstration (independent): place blue towel container. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "blue towel container"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0092",
+    "task_name": "place yellow towel container",
+    "description": "AIST bimanual manipulation demonstration (independent): place yellow towel container. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "yellow towel container"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0093",
+    "task_name": "handover and wipe sponge",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): handover sponge. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "sponge"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0094",
+    "task_name": "lift the towel",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): lift towel. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "towel"
+    ],
+    "skills": [
+      "bimanual_stabilize",
+      "hold_and_manipulate",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0095",
+    "task_name": "turn towel over",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): turn towel over. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "towel over"
+    ],
+    "skills": [
+      "deformable_object_handling",
+      "folding",
+      "bimanual_stabilize",
+      "force_control",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0096",
+    "task_name": "handover towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): handover towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "towel"
+    ],
+    "skills": [
+      "bimanual_handoff",
+      "hold_and_manipulate",
+      "precision_placement",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0097",
+    "task_name": "fold towel in random places",
+    "description": "AIST bimanual manipulation demonstration (synchronous bimanual): fold towel. Both arms act on the same workpiece at the same time with shared timing. Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "simultaneous_bimanual",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0098",
+    "task_name": "pick cutter from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick cutter rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "cutter",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0099",
+    "task_name": "pick screwdriver from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick screwdriver rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "screwdriver",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0100",
+    "task_name": "pick frame from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick frame rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "frame",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0101",
+    "task_name": "pick corner brachets from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick corner brachets rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "corner brachets",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0102",
+    "task_name": "pick scraper from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick scraper rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "scraper",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0103",
+    "task_name": "pick screwdriver red from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick screwdriver red rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "screwdriver red",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0104",
+    "task_name": "pick vinyl tape red from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick vinyl red rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "vinyl",
+      "red",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0105",
+    "task_name": "pick foam tape from rack",
+    "description": "AIST bimanual manipulation demonstration (independent): pick foam rack. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "foam",
+      "rack"
+    ],
+    "skills": [
+      "delicate_grasp",
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0106",
+    "task_name": "fold orange towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold orange towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "orange towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0107",
+    "task_name": "fold light blue towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold light blue towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "light blue towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0108",
+    "task_name": "fold green towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold green towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "green towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0109",
+    "task_name": "fold towel assist",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 100 teleop episodes available.",
+    "objects": [
+      "towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.797
+  },
+  {
+    "episode_id": "aist_0110",
+    "task_name": "fold big towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0111",
+    "task_name": "fold bath towel",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): fold bath towel. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "bath towel"
+    ],
+    "skills": [
+      "folding",
+      "deformable_object_handling",
+      "bimanual_stabilize",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.763
+  },
+  {
+    "episode_id": "aist_0112",
+    "task_name": "place block cup",
+    "description": "AIST bimanual manipulation demonstration (asynchronous bimanual): place block cup. Arms execute distinct trajectories with different roles (often stabilize-then-act). Recorded with the ALOHA dual-arm system; 390 teleop episodes available.",
+    "objects": [
+      "block cup"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate",
+      "sequencing"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.91
+  },
+  {
+    "episode_id": "aist_0114",
+    "task_name": "spoon red block bowl",
+    "description": "AIST bimanual manipulation demonstration (independent): spoon red block bowl. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 200 teleop episodes available.",
+    "objects": [
+      "red block bowl"
+    ],
+    "skills": [
+      "tool_use",
+      "container_interaction",
+      "hold_and_manipulate",
+      "stirring",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.863
+  },
+  {
+    "episode_id": "aist_0116",
+    "task_name": "spoon yellow block bowl",
+    "description": "AIST bimanual manipulation demonstration (independent): spoon yellow block bowl. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 400 teleop episodes available.",
+    "objects": [
+      "yellow block bowl"
+    ],
+    "skills": [
+      "tool_use",
+      "container_interaction",
+      "hold_and_manipulate",
+      "stirring",
+      "sequencing"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.91
+  },
+  {
+    "episode_id": "aist_0117",
+    "task_name": "place tape roll case",
+    "description": "AIST bimanual manipulation demonstration (independent): place roll case. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 50 teleop episodes available.",
+    "objects": [
+      "roll case"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.748
+  },
+  {
+    "episode_id": "aist_0118",
+    "task_name": "place box white base from tray",
+    "description": "AIST bimanual manipulation demonstration (independent): place box white base tray. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 52 teleop episodes available.",
+    "objects": [
+      "box white base",
+      "tray"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.75
+  },
+  {
+    "episode_id": "aist_0119",
+    "task_name": "place box white base from black base",
+    "description": "AIST bimanual manipulation demonstration (independent): place box white base black base. Both arms work, but on independent sub-tasks with no tight coupling. Recorded with the ALOHA dual-arm system; 52 teleop episodes available.",
+    "objects": [
+      "box white base",
+      "black base"
+    ],
+    "skills": [
+      "precision_placement",
+      "container_interaction",
+      "hold_and_manipulate"
+    ],
+    "coordination_type": "independent_dual_arm",
+    "quality_score": 0.75
+  }
+]

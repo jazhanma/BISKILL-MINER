@@ -1,0 +1,1055 @@
+[
+  {
+    "task_id": 1,
+    "task_name": "insert_washer_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 100,
+    "date": "2024-09-03",
+    "download_url": "https://www.dropbox.com/scl/fi/2lfgo2kw5gcn91f406dwz/insert%5Fwasher%5Fshaft.zip?rlkey=hpzuxr88g3oaueues76ctl4p7&dl=1"
+  },
+  {
+    "task_id": 2,
+    "task_name": "fit_large_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "fit",
+    "num_episodes": 50,
+    "date": "2024-09-11",
+    "download_url": "https://www.dropbox.com/scl/fi/xudkaek2rjf07ow2n11re/fit%5Flarge%5Fgear%5Fshaft.zip?rlkey=786xnmdj3et3bvmz00z3833dn&dl=1"
+  },
+  {
+    "task_id": 3,
+    "task_name": "fit_small_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "fit",
+    "num_episodes": 50,
+    "date": "2024-09-11",
+    "download_url": "https://www.dropbox.com/scl/fi/qbo432csn5nx4mtehqt5m/fit%5Fsmall%5Fgear%5Fshaft.zip?rlkey=uan6hy2bmiqal49wuvno71wsp&dl=1"
+  },
+  {
+    "task_id": 4,
+    "task_name": "insert_usb_cable",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-09-03",
+    "download_url": "https://www.dropbox.com/scl/fi/smsfhbp6lfl49yvieywrh/insert%5Fusb%5Fcable.zip?rlkey=8gi2ojo9uq7njrklphnuin4ox&dl=1"
+  },
+  {
+    "task_id": 5,
+    "task_name": "insert_usb_cable_fix_parts",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-09-03",
+    "download_url": "https://www.dropbox.com/scl/fi/dvqen7bux3nufkqq9l0ew/insert%5Fusb%5Fcable%5Ffix%5Fparts.zip?rlkey=bgyq2n960suos226vwpyjusqd&dl=1"
+  },
+  {
+    "task_id": 6,
+    "task_name": "insert_usb_cable_fixed_by_robot",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-09-03",
+    "download_url": "https://www.dropbox.com/scl/fi/7si415kilawwx5lt0m4hn/insert%5Fusb%5Fcable%5Ffixed%5Fby%5Frobot.zip?rlkey=kxsjgzs0sbku371k4ecl8glzl&dl=1"
+  },
+  {
+    "task_id": 7,
+    "task_name": "insert_usb_pcbox",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-09-02",
+    "download_url": "https://www.dropbox.com/scl/fi/hugexd0ibbl046wcugnl2/insert%5Fusb%5Fpcbox.zip?rlkey=kwf7byqrp01g5qnbzmkwpud7a&dl=1"
+  },
+  {
+    "task_id": 8,
+    "task_name": "insert_large_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 100,
+    "date": "2024-09-19",
+    "download_url": "https://www.dropbox.com/scl/fi/w69n7ek4plklpkwyg5woe/insert%5Flarge%5Fgear%5Fshaft.zip?rlkey=gr6bk9sh5gbk4ku8lo35t8iol&dl=1"
+  },
+  {
+    "task_id": 9,
+    "task_name": "insert_small_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 100,
+    "date": "2024-09-19",
+    "download_url": "https://www.dropbox.com/scl/fi/o8ldu02lgz2cm1fl4ky4k/insert%5Fsmall%5Fgear%5Fshaft.zip?rlkey=l7gf44lofjx7sq200n3jiur96&dl=1"
+  },
+  {
+    "task_id": 10,
+    "task_name": "find_insert_large_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "find",
+    "num_episodes": 100,
+    "date": "2024-10-02",
+    "download_url": "https://www.dropbox.com/scl/fi/k3pyrg1xkkujiucijeb3z/find%5Finsert%5Flarge%5Fgear%5Fshaft.zip?rlkey=mp7aqxsstdmtz18tpdo2kxx88&dl=1"
+  },
+  {
+    "task_id": 11,
+    "task_name": "find_insert_small_gear_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "find",
+    "num_episodes": 100,
+    "date": "2024-10-02",
+    "download_url": "https://www.dropbox.com/scl/fi/2rse4ucudyfekknq1oq8n/find%5Finsert%5Fsmall%5Fgear%5Fshaft.zip?rlkey=iclz1apvyqwmpu8hr5e6uvccf&dl=1"
+  },
+  {
+    "task_id": 12,
+    "task_name": "hook_cable_8pin",
+    "aist_taxonomy": "independent",
+    "skill_verb": "hook",
+    "num_episodes": 50,
+    "date": "2024-09-04",
+    "download_url": "https://www.dropbox.com/scl/fi/tn4rd5enub8h74apkzqta/hook%5Fcable%5F8pin.zip?rlkey=2wkhnba6g4z2j4oyvw5cnaxfx&dl=1"
+  },
+  {
+    "task_id": 13,
+    "task_name": "hook_cable_narrow_8pin",
+    "aist_taxonomy": "independent",
+    "skill_verb": "hook",
+    "num_episodes": 50,
+    "date": "2024-09-11",
+    "download_url": "https://www.dropbox.com/scl/fi/xe444mayltbmy3nxxu6yp/hook%5Fcable%5Fnarrow%5F8pin.zip?rlkey=gi1ujrxjgiafhs8kruh01wgww&dl=1"
+  },
+  {
+    "task_id": 14,
+    "task_name": "insert_usb_port_hub",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 150,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/mewsst7h2yzikomcgcd19/insert%5Fusb%5Fport%5Fhub.zip?rlkey=mqatku15kwtxpcxk847otnrjs&dl=1"
+  },
+  {
+    "task_id": 15,
+    "task_name": "insert_wire_loop",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 600,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/ag9r32m92wqatp1qgp812/insert%5Fwire%5Floop.zip?rlkey=5xd5hxrfry8c8ae12yz2mi220&dl=1"
+  },
+  {
+    "task_id": 16,
+    "task_name": "insert_rod_board",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 30,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/hnowlcpvixe7f1rkus179/insert%5Frod%5Fboard.zip?rlkey=48gq2j0ol7k8x051x7ag5sh5v&dl=1"
+  },
+  {
+    "task_id": 17,
+    "task_name": "insert_rod_moved_board",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 60,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/utordio86a6oklw6uba2w/insert%5Frod%5Fmoved%5Fboard.zip?rlkey=ov73sptcumdm3ze2g51dlyq74&dl=1"
+  },
+  {
+    "task_id": 18,
+    "task_name": "insert_wire_metal_fitting",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 30,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/d4ot2ff6dw1e0y5xhte0e/insert%5Fwire%5Fmetal%5Ffitting.zip?rlkey=x4a7zqz8kdoo1s8ookc5s7pyv&dl=1"
+  },
+  {
+    "task_id": 19,
+    "task_name": "insert_wire_marked_metal_fitting",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 120,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/stmihkmupl3rqkte5m3tk/insert%5Fwire%5Fmarked%5Fmetal%5Ffitting.zip?rlkey=ipf0pwnddey2cq83rxf70eyl5&dl=1"
+  },
+  {
+    "task_id": 20,
+    "task_name": "insert_usb_cable_board",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/5bn7l6lgokz4ocg6vy4b4/insert%5Fusb%5Fcable%5Fboard.zip?rlkey=4k4pcu0fwkx1yoe1ds4b6dcn8&dl=1"
+  },
+  {
+    "task_id": 21,
+    "task_name": "put_cup_holder_right_arm",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "put",
+    "num_episodes": 60,
+    "date": "2024-10-03",
+    "download_url": "https://www.dropbox.com/scl/fi/lz27xwma6gyw80dnye3z3/put%5Fcup%5Fholder%5Fright%5Farm.zip?rlkey=d93bhg2bmlf8a5bteurl0n636&dl=1"
+  },
+  {
+    "task_id": 22,
+    "task_name": "put_cup_moved_holder",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "put",
+    "num_episodes": 30,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/vz696pkro424fvv7zzlqp/put%5Fcup%5Fmoved%5Fholder.zip?rlkey=f6kulopzwxmx6lppk1tlf7uax&dl=1"
+  },
+  {
+    "task_id": 23,
+    "task_name": "put_cup_moved_red_handle_holder",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "put",
+    "num_episodes": 100,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/krdoy5xvcwk08a6psqmxb/put%5Fcup%5Fmoved%5Fred%5Fhandle%5Fholder.zip?rlkey=xrk9x097o63f6dxg20f2e22ki&dl=1"
+  },
+  {
+    "task_id": 24,
+    "task_name": "put_tape_in_basket",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "put",
+    "num_episodes": 60,
+    "date": "2024-10-09",
+    "download_url": "https://www.dropbox.com/scl/fi/ig9ulvzh014fnf954yn6o/put%5Ftape%5Fin%5Fbasket.zip?rlkey=0vu81sd3kkwasc1ri01mx04oq&dl=1"
+  },
+  {
+    "task_id": 25,
+    "task_name": "put_tape_white_case_alternating_arms",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "put",
+    "num_episodes": 100,
+    "date": "2024-10-15",
+    "download_url": "https://www.dropbox.com/scl/fi/y9uqov75ebz39x07y7cck/put%5Ftape%5Fwhite%5Fcase%5Falternating%5Farms.zip?rlkey=v8h66znuh02yhzikn4vak4ps4&dl=1"
+  },
+  {
+    "task_id": 26,
+    "task_name": "put_tape_white_case_left_arm",
+    "aist_taxonomy": "independent",
+    "skill_verb": "put",
+    "num_episodes": 50,
+    "date": "2024-10-18",
+    "download_url": "https://www.dropbox.com/scl/fi/7ybu9kw540xabgj682v2w/put%5Ftape%5Fwhite%5Fcase%5Fleft%5Farm.zip?rlkey=s9usrbwodwr4vdjz6za09v8e7&dl=1"
+  },
+  {
+    "task_id": 27,
+    "task_name": "put_tape_white_case_right_arm",
+    "aist_taxonomy": "independent",
+    "skill_verb": "put",
+    "num_episodes": 50,
+    "date": "2024-10-22",
+    "download_url": "https://www.dropbox.com/scl/fi/d3bszt8xn9q3xxkcp6h7e/put%5Ftape%5Fwhite%5Fcase%5Fright%5Farm.zip?rlkey=9b3n7u7g336e946hy3oz08w2w&dl=1"
+  },
+  {
+    "task_id": 28,
+    "task_name": "insert_washer_shaft_both_hands",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 130,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/cg5i84lv944e5zktq0ivp/insert%5Fwasher%5Fshaft%5Fboth%5Fhands.zip?rlkey=waysxb7hpnz9z6s1n8n4xo6wd&dl=1"
+  },
+  {
+    "task_id": 29,
+    "task_name": "pass_usb_cable_three_rings",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pass",
+    "num_episodes": 100,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/7y8paply8wpazlavqd19w/pass%5Fusb%5Fcable%5Fthree%5Frings.zip?rlkey=0htyxfuyksf45e7uq26hbmx8h&dl=1"
+  },
+  {
+    "task_id": 30,
+    "task_name": "handover_metallic_zip_bag_upright",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "handover",
+    "num_episodes": 94,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/8h1xmxg0x50qsc3lqa4ar/handover%5Fmetallic%5Fzip%5Fbag%5Fupright.zip?rlkey=4r4jfudl9b8yz1bmpr5k9zfer&dl=1"
+  },
+  {
+    "task_id": 31,
+    "task_name": "handover_clear_zip_bag_upright",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "handover",
+    "num_episodes": 30,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/iqzzria43skteihdgdbrm/handover%5Fclear%5Fzip%5Fbag%5Fupright.zip?rlkey=rbu2edyrwle84e32uewlgj7d9&dl=1"
+  },
+  {
+    "task_id": 32,
+    "task_name": "take_out_reel_clear_zip_bag",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "take",
+    "num_episodes": 60,
+    "date": "2024-10-30",
+    "download_url": "https://www.dropbox.com/scl/fi/h9wdhsu6h6if2drtmp0zc/take%5Fout%5Freel%5Fclear%5Fzip%5Fbag.zip?rlkey=ivj291kqif0tinzpr9cs4905w&dl=1"
+  },
+  {
+    "task_id": 33,
+    "task_name": "peel_off_magic_tape",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "peel",
+    "num_episodes": 50,
+    "date": "2024-11-18",
+    "download_url": "https://www.dropbox.com/scl/fi/2wqpl7h23mhghx5wq00nb/peel%5Foff%5Fmagic%5Ftape.zip?rlkey=cwawsb77823cce6r8pflu7d6n&dl=1"
+  },
+  {
+    "task_id": 34,
+    "task_name": "peel_duct_tape",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "peel",
+    "num_episodes": 50,
+    "date": "2024-11-19",
+    "download_url": "https://www.dropbox.com/scl/fi/x0yc89lzcnpakhl9qjpug/peel%5Fduct%5Ftape.zip?rlkey=cylkrk4933a8sqgaf0qb1hwv9&dl=1"
+  },
+  {
+    "task_id": 35,
+    "task_name": "sliding_the_gears",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "sliding",
+    "num_episodes": 50,
+    "date": "2024-11-19",
+    "download_url": "https://www.dropbox.com/scl/fi/xzv9vq1oz506e77h0f828/sliding%5Fthe%5Fgears.zip?rlkey=9rty990bhaz2wolcfox1z0ke0&dl=1"
+  },
+  {
+    "task_id": 36,
+    "task_name": "insert_gear_onto_shaft_sliding",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-11-21",
+    "download_url": "https://www.dropbox.com/scl/fi/nlmintzt9skkpw56pro0w/insert%5Fgear%5Fonto%5Fshaft%5Fsliding.zip?rlkey=cewwmnvjrzegwawfnswcru96m&dl=1"
+  },
+  {
+    "task_id": 37,
+    "task_name": "place_tape_case",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 30,
+    "date": "2024-11-25",
+    "download_url": "https://www.dropbox.com/scl/fi/c8lmi4lb4ht4j4vwpn4l5/place%5Ftape%5Fcase.zip?rlkey=e8g71t5pqeyu5iydmf70x5rft&dl=1"
+  },
+  {
+    "task_id": 38,
+    "task_name": "place_random_tape_case",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 130,
+    "date": "2024-11-25",
+    "download_url": "https://www.dropbox.com/scl/fi/qefjqli7u5kjnlnpco9ef/place%5Frandom%5Ftape%5Fcase.zip?rlkey=vfzenp62wopqak1jnmutg381c&dl=1"
+  },
+  {
+    "task_id": 39,
+    "task_name": "lift_board",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 50,
+    "date": "2024-11-11",
+    "download_url": "https://www.dropbox.com/scl/fi/m71n0th58tlu2td1jjc2h/lift%5Fboard.zip?rlkey=c7eo5vu9c927e7e3dwjwnp6nn&dl=1"
+  },
+  {
+    "task_id": 40,
+    "task_name": "lift_metal_rail",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 148,
+    "date": "2024-11-12",
+    "download_url": "https://www.dropbox.com/scl/fi/ihzh1g5ggzkun3dsi735x/lift%5Fmetal%5Frail.zip?rlkey=4dfl07eg2nnr10v5pkpo3zr5d&dl=1"
+  },
+  {
+    "task_id": 41,
+    "task_name": "lift_large_metal_rail",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 50,
+    "date": "2024-11-14",
+    "download_url": "https://www.dropbox.com/scl/fi/ibggf86fb7v78xjjfs72y/lift%5Flarge%5Fmetal%5Frail.zip?rlkey=c6gwpwpumvp6lc00qj9tm4d9z&dl=1"
+  },
+  {
+    "task_id": 42,
+    "task_name": "lift_white_case",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 50,
+    "date": "2024-11-21",
+    "download_url": "https://www.dropbox.com/scl/fi/gntte2936w5ouh01r4ozc/lift%5Fwhite%5Fcase.zip?rlkey=4ch98isqidz5navnmqarvxovg&dl=1"
+  },
+  {
+    "task_id": 43,
+    "task_name": "lift_white_basket",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 100,
+    "date": "2024-11-21",
+    "download_url": "https://www.dropbox.com/scl/fi/cefx2rel0azr2jz9qmyxa/lift%5Fwhite%5Fbasket.zip?rlkey=3qh3alyddv15dsk4w5tfdlbre&dl=1"
+  },
+  {
+    "task_id": 44,
+    "task_name": "insert_lan_cable_into_the_hub",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "insert",
+    "num_episodes": 100,
+    "date": "2025-01-16",
+    "download_url": "https://www.dropbox.com/scl/fi/rai9993tw45m5m4in7gvr/insert%5Flan%5Fcable%5Finto%5Fthe%5Fhub.zip?rlkey=s5f66d0o6dceazyoowaqum1w2&dl=1"
+  },
+  {
+    "task_id": 45,
+    "task_name": "pick_box_plastic_case",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2024-11-29",
+    "download_url": "https://www.dropbox.com/scl/fi/avrm0h4lashmozufti3wr/pick%5Fbox%5Fplastic%5Fcase.zip?rlkey=zjyxxkvpqvvy6vjszwux98hqk&dl=1"
+  },
+  {
+    "task_id": 46,
+    "task_name": "pick_box_cardboard_box",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 108,
+    "date": "2024-11-29",
+    "download_url": "https://www.dropbox.com/scl/fi/pcyvvm9fm0uy2agy8bdka/pick%5Fbox%5Fcardboard%5Fbox.zip?rlkey=xsv1bzgn9c2afc77w5xgy0u1p&dl=1"
+  },
+  {
+    "task_id": 47,
+    "task_name": "pick_box_randomly_placed_in_cardboard_box",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 60,
+    "date": "2024-11-29",
+    "download_url": "https://www.dropbox.com/scl/fi/7nkwnuyvngp00vay9trmp/pick%5Fbox%5Frandomly%5Fplaced%5Fin%5Fcardboard%5Fbox.zip?rlkey=27xiucmfunww1lr7q7afytwcj&dl=1"
+  },
+  {
+    "task_id": 48,
+    "task_name": "handover_blue_block",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "handover",
+    "num_episodes": 200,
+    "date": "2024-12-09",
+    "download_url": "https://www.dropbox.com/scl/fi/5j8e6mmzno56ins4n08tk/handover%5Fblue%5Fblock.zip?rlkey=4sjuy7wjp8fwzp2ssvb48s5ua&dl=1"
+  },
+  {
+    "task_id": 49,
+    "task_name": "lift_place_clamped_box_lid",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 50,
+    "date": "2024-12-03",
+    "download_url": "https://www.dropbox.com/scl/fi/iwq8pf3xqlge4b456fijq/lift%5Fplace%5Fclamped%5Fbox%5Flid.zip?rlkey=7lgdzwhalrcxn3921s4lo7gm7&dl=1"
+  },
+  {
+    "task_id": 50,
+    "task_name": "remove_box_from_case",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "remove",
+    "num_episodes": 50,
+    "date": "2024-12-06",
+    "download_url": "https://www.dropbox.com/scl/fi/s2wgc45b17w3vcp5v7jo5/remove%5Fbox%5Ffrom%5Fcase.zip?rlkey=4odidmkshcgnx2kkut1rmw3vy&dl=1"
+  },
+  {
+    "task_id": 51,
+    "task_name": "remove_box_from_case_both_hands",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "remove",
+    "num_episodes": 50,
+    "date": "2024-12-11",
+    "download_url": "https://www.dropbox.com/scl/fi/r2c99zvzx8pysava2h7ui/remove%5Fbox%5Ffrom%5Fcase%5Fboth%5Fhands.zip?rlkey=ghwz0ubu85dx0pvv22cmlqiv4&dl=1"
+  },
+  {
+    "task_id": 52,
+    "task_name": "remove_box_from_case_left_arm",
+    "aist_taxonomy": "independent",
+    "skill_verb": "remove",
+    "num_episodes": 50,
+    "date": "2024-12-09",
+    "download_url": "https://www.dropbox.com/scl/fi/40kcfzoyh6ivpobiugu50/remove%5Fbox%5Ffrom%5Fcase%5Fleft%5Farm.zip?rlkey=3n9dp9ayxi6gc5gnbd8raxwca&dl=1"
+  },
+  {
+    "task_id": 53,
+    "task_name": "remove_box_from_case_right_arm",
+    "aist_taxonomy": "independent",
+    "skill_verb": "remove",
+    "num_episodes": 50,
+    "date": "2024-12-10",
+    "download_url": "https://www.dropbox.com/scl/fi/6r49tpaolxqb7morbuutx/remove%5Fbox%5Ffrom%5Fcase%5Fright%5Farm.zip?rlkey=94p9fw19byhsa38s803521gm0&dl=1"
+  },
+  {
+    "task_id": 54,
+    "task_name": "lift_clamped_cardboard_box",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 50,
+    "date": "2024-12-10",
+    "download_url": "https://www.dropbox.com/scl/fi/7we6p4n2ca30egs7hbpo6/lift%5Fclamped%5Fcardboard%5Fbox.zip?rlkey=f216oyc3x16oviu457box22dq&dl=1"
+  },
+  {
+    "task_id": 55,
+    "task_name": "place_clamped_cardboard_box_stand",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "place",
+    "num_episodes": 81,
+    "date": "2024-12-12",
+    "download_url": "https://www.dropbox.com/scl/fi/4atf3bcu3jjugi6hcys7t/place%5Fclamped%5Fcardboard%5Fbox%5Fstand.zip?rlkey=aapbxslnhahq4suj65zi9nk1f&dl=1"
+  },
+  {
+    "task_id": 56,
+    "task_name": "hook_rubber_shaft",
+    "aist_taxonomy": "independent",
+    "skill_verb": "hook",
+    "num_episodes": 50,
+    "date": "2024-12-12",
+    "download_url": "https://www.dropbox.com/scl/fi/qsp10tvg0x3otv03xv5cx/hook%5Frubber%5Fshaft.zip?rlkey=cxlkz28fdglid5p0h66sgdukf&dl=1"
+  },
+  {
+    "task_id": 57,
+    "task_name": "insert_shaft_into_gear",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 50,
+    "date": "2024-12-13",
+    "download_url": "https://www.dropbox.com/scl/fi/ih0z7qgloq0uqhvbqtbxa/insert%5Fshaft%5Finto%5Fgear.zip?rlkey=d5htwt0vzmf22zvnxc2jxgrm9&dl=1"
+  },
+  {
+    "task_id": 58,
+    "task_name": "find_hole_and_insert_into_gear",
+    "aist_taxonomy": "independent",
+    "skill_verb": "find",
+    "num_episodes": 100,
+    "date": "2024-12-16",
+    "download_url": "https://www.dropbox.com/scl/fi/b5d1rz3vfnrraqk01sr14/find%5Fhole%5Fand%5Finsert%5Finto%5Fgear.zip?rlkey=2tsz6ybz41tos38syihix7mlf&dl=1"
+  },
+  {
+    "task_id": 59,
+    "task_name": "insert_random_shaft_random_medium_gear",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 300,
+    "date": "2024-12-20",
+    "download_url": "https://www.dropbox.com/scl/fi/v4ha9roww9ec2y7tvww41/insert%5Frandom%5Fshaft%5Frandom%5Fmedium%5Fgear.zip?rlkey=qitise4t33dnclfys3tmkgfpi&dl=1"
+  },
+  {
+    "task_id": 60,
+    "task_name": "insert_random_shaft_random_small_gear",
+    "aist_taxonomy": "independent",
+    "skill_verb": "insert",
+    "num_episodes": 300,
+    "date": "2024-12-24",
+    "download_url": "https://www.dropbox.com/scl/fi/v4i1w3k092n9j03ff9ln5/insert%5Frandom%5Fshaft%5Frandom%5Fsmall%5Fgear.zip?rlkey=0mquxiosasa8mpo47w50ng3go&dl=1"
+  },
+  {
+    "task_id": 61,
+    "task_name": "place_soldering_iron_on_marker",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 100,
+    "date": "2025-01-16",
+    "download_url": "https://www.dropbox.com/scl/fi/2lc5y0xuaf73ztei8u2gt/place%5Fsoldering%5Firon%5Fon%5Fmarker.zip?rlkey=jtsv0beg9cbylby2b7nruyyae&dl=1"
+  },
+  {
+    "task_id": 62,
+    "task_name": "open_cap_bottle",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "open",
+    "num_episodes": 100,
+    "date": "2025-01-17",
+    "download_url": "https://www.dropbox.com/scl/fi/srbssqd0nfbltl5whrp0t/open%5Fcap%5Fbottle.zip?rlkey=bls2i33afjoihyp2ohfjhg78w&dl=1"
+  },
+  {
+    "task_id": 63,
+    "task_name": "wipe_the_desk_with_an_orange_cloth",
+    "aist_taxonomy": "independent",
+    "skill_verb": "wipe",
+    "num_episodes": 50,
+    "date": "2025-01-20",
+    "download_url": "https://www.dropbox.com/scl/fi/ey6yqnynd6fp0nv8fnls3/wipe%5Fthe%5Fdesk%5Fwith%5Fan%5Forange%5Fcloth.zip?rlkey=03dh43dpxm346bs0jcictjgev&dl=1"
+  },
+  {
+    "task_id": 64,
+    "task_name": "wipe_the_desk_with_a_yellow_cloth",
+    "aist_taxonomy": "independent",
+    "skill_verb": "wipe",
+    "num_episodes": 50,
+    "date": "2025-01-21",
+    "download_url": "https://www.dropbox.com/scl/fi/y9kkjf3cfejxwq1d38q9g/wipe%5Fthe%5Fdesk%5Fwith%5Fa%5Fyellow%5Fcloth.zip?rlkey=ky7cwa0auy4hdpieujosjgcxn&dl=1"
+  },
+  {
+    "task_id": 65,
+    "task_name": "wipe_the_desk_with_a_blue_cloth",
+    "aist_taxonomy": "independent",
+    "skill_verb": "wipe",
+    "num_episodes": 50,
+    "date": "2025-01-21",
+    "download_url": "https://www.dropbox.com/scl/fi/heyocve1alfd2nurueiqt/wipe%5Fthe%5Fdesk%5Fwith%5Fa%5Fblue%5Fcloth.zip?rlkey=gmwxzd2ebyt9s3f4gtvkos1k2&dl=1"
+  },
+  {
+    "task_id": 66,
+    "task_name": "brush_screws_into_dustpan_human_brush_left_hold",
+    "aist_taxonomy": "collaboration",
+    "skill_verb": "brush",
+    "num_episodes": 50,
+    "date": "2025-01-21",
+    "download_url": "https://www.dropbox.com/scl/fi/t5o4piekps1wr1jmfxt1o/brush%5Fscrews%5Finto%5Fdustpan%5Fhuman%5Fbrush%5Fleft%5Fhold.zip?rlkey=kfz5ylojdvvv5rt6rgq5al969&dl=1"
+  },
+  {
+    "task_id": 67,
+    "task_name": "brush_screws_into_dustpan_left_brush_human_hold",
+    "aist_taxonomy": "collaboration",
+    "skill_verb": "brush",
+    "num_episodes": 50,
+    "date": "2025-01-22",
+    "download_url": "https://www.dropbox.com/scl/fi/era5jl99ixswjcxf42t8h/brush%5Fscrews%5Finto%5Fdustpan%5Fleft%5Fbrush%5Fhuman%5Fhold.zip?rlkey=xfitlb9k0p08acrrtyl3o5xzx&dl=1"
+  },
+  {
+    "task_id": 68,
+    "task_name": "place_the_slippers",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 50,
+    "date": "2025-01-22",
+    "download_url": "https://www.dropbox.com/scl/fi/h55xr6maki2grkrg07erc/place%5Fthe%5Fslippers.zip?rlkey=m2ac77eco8l2jasn7rtd7zyp8&dl=1"
+  },
+  {
+    "task_id": 69,
+    "task_name": "place_soldering_iron_and_solder_on_marker",
+    "aist_taxonomy": "Unimanual",
+    "skill_verb": "place",
+    "num_episodes": 100,
+    "date": "2025-01-20",
+    "download_url": "https://www.dropbox.com/scl/fi/xovxg5z2g5yuetpxd7smo/place%5Fsoldering%5Firon%5Fand%5Fsolder%5Fon%5Fmarker.zip?rlkey=boco0y1rjvk56kcc27r3fzy0w&dl=1"
+  },
+  {
+    "task_id": 70,
+    "task_name": "hit_mark_with_hammer",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "hit",
+    "num_episodes": 100,
+    "date": "2025-01-22",
+    "download_url": "https://www.dropbox.com/scl/fi/zz57e0xopeo2tyqjtjxnx/hit%5Fmark%5Fwith%5Fhammer.zip?rlkey=6zsjwqqpob69tite658twfuzp&dl=1"
+  },
+  {
+    "task_id": 71,
+    "task_name": "wipe_the_desk_with_a_sponge",
+    "aist_taxonomy": "independent",
+    "skill_verb": "wipe",
+    "num_episodes": 50,
+    "date": "2025-01-22",
+    "download_url": "https://www.dropbox.com/scl/fi/01ffnbeydn33n6rhxp54x/wipe%5Fthe%5Fdesk%5Fwith%5Fa%5Fsponge.zip?rlkey=7fvx2g20385z2tl84jlws38m5&dl=1"
+  },
+  {
+    "task_id": 72,
+    "task_name": "place_the_chinese_spoons_on_the_cloth",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 50,
+    "date": "2025-01-23",
+    "download_url": "https://www.dropbox.com/scl/fi/wamgjsyqicylhgwqepttq/place%5Fthe%5Fchinese%5Fspoons%5Fon%5Fthe%5Fcloth.zip?rlkey=nf6hxn79vxjxsmqz53kab377g&dl=1"
+  },
+  {
+    "task_id": 73,
+    "task_name": "fold_blue_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 200,
+    "date": "2025-01-23",
+    "download_url": "https://www.dropbox.com/scl/fi/ou8pbpdvwf8ppr4j3v3z4/fold%5Fblue%5Ftowel.zip?rlkey=ggvjznax8t8uiw0hx2e3rcpkr&dl=1"
+  },
+  {
+    "task_id": 74,
+    "task_name": "fold_yellow_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-01-28",
+    "download_url": "https://www.dropbox.com/scl/fi/g3ui2obi6p1zdpfyw56fo/fold%5Fyellow%5Ftowel.zip?rlkey=kudn0rg9xpl9iejd8u0qd317o&dl=1"
+  },
+  {
+    "task_id": 75,
+    "task_name": "pick_up_slipper_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-03",
+    "download_url": "https://www.dropbox.com/scl/fi/wxwebfder771cd7uc4ghg/pick%5Fup%5Fslipper%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=lx18efxzw1xaapfczyn6hqr5v&dl=1"
+  },
+  {
+    "task_id": 76,
+    "task_name": "pick_up_cellophane_tape_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-05",
+    "download_url": "https://www.dropbox.com/scl/fi/t2ave9sb57z2pm8qrg7u6/pick%5Fup%5Fcellophane%5Ftape%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=v00swo5dt04fv7e3ogggxu8zl&dl=1"
+  },
+  {
+    "task_id": 77,
+    "task_name": "pick_up_dustpan_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-05",
+    "download_url": "https://www.dropbox.com/scl/fi/vq3vd1bcrwrujosayto3z/pick%5Fup%5Fdustpan%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=0zqtvb8gofjyzzzgbu9p6zoyt&dl=1"
+  },
+  {
+    "task_id": 78,
+    "task_name": "pick_up_hand_brush_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-05",
+    "download_url": "https://www.dropbox.com/scl/fi/11k6lsup69crekb4t0baj/pick%5Fup%5Fhand%5Fbrush%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=ddn9fmahcpedp8ybx1oz1x70n&dl=1"
+  },
+  {
+    "task_id": 79,
+    "task_name": "pick_up_tape_dispenser_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-06",
+    "download_url": "https://www.dropbox.com/scl/fi/qlw4cgtv8ehf4ko82lp04/pick%5Fup%5Ftape%5Fdispenser%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=stc3w99drp2oh9y47nhmgnpe6&dl=1"
+  },
+  {
+    "task_id": 80,
+    "task_name": "pick_up_chinese_spoon_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-07",
+    "download_url": "https://www.dropbox.com/scl/fi/mj5868vbipbvntefk4khm/pick%5Fup%5Fchinese%5Fspoon%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=yiv3uc2nzd8fdjl1uzalp5dqh&dl=1"
+  },
+  {
+    "task_id": 81,
+    "task_name": "pick_up_orange_cloth_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-12",
+    "download_url": "https://www.dropbox.com/scl/fi/rt0frhoav0su3vmtdohmq/pick%5Fup%5Forange%5Fcloth%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=b9zzronzq3pkhbhp2pz7tlhjr&dl=1"
+  },
+  {
+    "task_id": 82,
+    "task_name": "pick_up_blue_cloth_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-12",
+    "download_url": "https://www.dropbox.com/scl/fi/gdclzzjq9hc6w9xxgvnkv/pick%5Fup%5Fblue%5Fcloth%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=mzf6i8m88pkjltk7lb9ts6ly7&dl=1"
+  },
+  {
+    "task_id": 83,
+    "task_name": "pick_up_yellow_cloth_from_shopping_basket",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-12",
+    "download_url": "https://www.dropbox.com/scl/fi/fmzmma7xpzqrts61653ev/pick%5Fup%5Fyellow%5Fcloth%5Ffrom%5Fshopping%5Fbasket.zip?rlkey=nqtcu50f7de5wyox8pwmn2n3x&dl=1"
+  },
+  {
+    "task_id": 84,
+    "task_name": "open_toolbox",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "open",
+    "num_episodes": 100,
+    "date": "2025-02-03",
+    "download_url": "https://www.dropbox.com/scl/fi/gtdjerzf3szd0tduvzvs1/open%5Ftoolbox.zip?rlkey=5c5ibtw774woqfyym88os6sst&dl=1"
+  },
+  {
+    "task_id": 85,
+    "task_name": "close_toolbox",
+    "aist_taxonomy": "independent",
+    "skill_verb": "close",
+    "num_episodes": 100,
+    "date": "2025-02-06",
+    "download_url": "https://www.dropbox.com/scl/fi/8bspjayl43nja79tma8aj/close%5Ftoolbox.zip?rlkey=tu58hjdkwab8rg5eoxgxqgl21&dl=1"
+  },
+  {
+    "task_id": 86,
+    "task_name": "pick_nipper_from_toolbox",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-04",
+    "download_url": "https://www.dropbox.com/scl/fi/rdg4njdce05wkhvx8uv4v/pick%5Fnipper%5Ffrom%5Ftoolbox.zip?rlkey=zk9za9awmbejs18f513ndovl5&dl=1"
+  },
+  {
+    "task_id": 87,
+    "task_name": "pick_screwdriver_from_toolbox",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 100,
+    "date": "2025-02-05",
+    "download_url": "https://www.dropbox.com/scl/fi/h687tuakj75asaqwy3lac/pick%5Fscrewdriver%5Ffrom%5Ftoolbox.zip?rlkey=yq3py3w1k5xb69obgpcy87mxb&dl=1"
+  },
+  {
+    "task_id": 88,
+    "task_name": "place_orange_towel_container",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 100,
+    "date": "2025-02-14",
+    "download_url": "https://www.dropbox.com/scl/fi/ngm5pj4lpni8ayty5zmcy/place%5Forange%5Ftowel%5Fcontainer.zip?rlkey=gnko7rk54yedbhtvodaauf040&dl=1"
+  },
+  {
+    "task_id": 89,
+    "task_name": "close_cardboard_box",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "close",
+    "num_episodes": 100,
+    "date": "2025-02-14",
+    "download_url": "https://www.dropbox.com/scl/fi/aekafgh50i9u5jjnkiw4w/close%5Fcardboard%5Fbox.zip?rlkey=p7rmtvlrn07a12rjjyqzywju8&dl=1"
+  },
+  {
+    "task_id": 90,
+    "task_name": "tape_closed_cardboard",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "tape",
+    "num_episodes": 100,
+    "date": "2025-02-21",
+    "download_url": "https://www.dropbox.com/scl/fi/apfeyjrg6usrodrxgatll/tape%5Fclosed%5Fcardboard.zip?rlkey=5zyhewshqj15cp9z4kv0p63kq&dl=1"
+  },
+  {
+    "task_id": 91,
+    "task_name": "place_blue_towel_container",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 100,
+    "date": "2025-02-14",
+    "download_url": "https://www.dropbox.com/scl/fi/vb56diswpgeihnfa68oky/place%5Fblue%5Ftowel%5Fcontainer.zip?rlkey=m6m8r9gsu1wvuvc4nhjq8rvwl&dl=1"
+  },
+  {
+    "task_id": 92,
+    "task_name": "place_yellow_towel_container",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 100,
+    "date": "2025-02-17",
+    "download_url": "https://www.dropbox.com/scl/fi/b5qr5v82fnk0mdodku31c/place%5Fyellow%5Ftowel%5Fcontainer.zip?rlkey=yhhbc1xgz32dtaote58a3ro2i&dl=1"
+  },
+  {
+    "task_id": 93,
+    "task_name": "handover_and_wipe_sponge",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "handover",
+    "num_episodes": 100,
+    "date": "2025-03-11",
+    "download_url": "https://www.dropbox.com/scl/fi/fcbrsb9yl2rwk722xq85j/handover%5Fand%5Fwipe%5Fsponge.zip?rlkey=903ugtrvjzvhpaqqphyd79sj2&dl=1"
+  },
+  {
+    "task_id": 94,
+    "task_name": "lift_the_towel",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "lift",
+    "num_episodes": 100,
+    "date": "2025-03-14",
+    "download_url": "https://www.dropbox.com/scl/fi/w0ndc84sbienwt4huhuy9/lift%5Fthe%5Ftowel.zip?rlkey=th5v91nnk57x32fpzyypxv5zf&dl=1"
+  },
+  {
+    "task_id": 95,
+    "task_name": "turn_towel_over",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "turn",
+    "num_episodes": 100,
+    "date": "2025-03-19",
+    "download_url": "https://www.dropbox.com/scl/fi/chwfbycn7613ue5ko8si7/turn%5Ftowel%5Fover.zip?rlkey=u4d3eo6xosz2e9o3fcexwzj6u&dl=1"
+  },
+  {
+    "task_id": 96,
+    "task_name": "handover_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "handover",
+    "num_episodes": 100,
+    "date": "2025-03-31",
+    "download_url": "https://www.dropbox.com/scl/fi/f33ywrj1mpt0oxh1xdte1/handover%5Ftowel.zip?rlkey=3re4i99gi4d6en6vm1swirmq2&dl=1"
+  },
+  {
+    "task_id": 97,
+    "task_name": "fold_towel_in_random_places",
+    "aist_taxonomy": "Synchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-04-02",
+    "download_url": "https://www.dropbox.com/scl/fi/svpvde6wjx6agoqjtyq5l/fold%5Ftowel%5Fin%5Frandom%5Fplaces.zip?rlkey=k82cthnn2e4xcb2qr6gvyxkit&dl=1"
+  },
+  {
+    "task_id": 98,
+    "task_name": "pick_cutter_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-04",
+    "download_url": "https://www.dropbox.com/scl/fi/n59bkdisb6bzf435gcmxr/pick%5Fcutter%5Ffrom%5Frack.zip?rlkey=9zj8vjjta42i271k9vcktt3rt&dl=1"
+  },
+  {
+    "task_id": 99,
+    "task_name": "pick_screwdriver_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-04",
+    "download_url": "https://www.dropbox.com/scl/fi/l2q080cyy3cmpvk6kjtav/pick%5Fscrewdriver%5Ffrom%5Frack.zip?rlkey=19vvgshogthu7pnk18riv322w&dl=1"
+  },
+  {
+    "task_id": 100,
+    "task_name": "pick_frame_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-07",
+    "download_url": "https://www.dropbox.com/scl/fi/ri123fmpn4d6cpomgisnl/pick%5Fframe%5Ffrom%5Frack.zip?rlkey=u0pk35r0w7i80zwdcxmkydr45&dl=1"
+  },
+  {
+    "task_id": 101,
+    "task_name": "pick_corner_brachets_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-07",
+    "download_url": "https://www.dropbox.com/scl/fi/yakea8t0k6w919o3os3ex/pick%5Fcorner%5Fbrachets%5Ffrom%5Frack.zip?rlkey=b93no4isbdxnbgay2op075v8h&dl=1"
+  },
+  {
+    "task_id": 102,
+    "task_name": "pick_scraper_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-07",
+    "download_url": "https://www.dropbox.com/scl/fi/x2koovpbv4l242jzbh3z2/pick%5Fscraper%5Ffrom%5Frack.zip?rlkey=wlp893a8ntht2haq1eg6am63f&dl=1"
+  },
+  {
+    "task_id": 103,
+    "task_name": "pick_screwdriver_red_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-07",
+    "download_url": "https://www.dropbox.com/scl/fi/8gkw2hshbxalbx20kc2oe/pick%5Fscrewdriver%5Fred%5Ffrom%5Frack.zip?rlkey=hltdtja7001tc9v0p9bh252ar&dl=1"
+  },
+  {
+    "task_id": 104,
+    "task_name": "pick_vinyl_tape_red_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-08",
+    "download_url": "https://www.dropbox.com/scl/fi/oscxsr230m8u7qgwlggke/pick%5Fvinyl%5Ftape%5Fred%5Ffrom%5Frack.zip?rlkey=xlu49zesu86s4nn150wj6vx3h&dl=1"
+  },
+  {
+    "task_id": 105,
+    "task_name": "pick_foam_tape_from_rack",
+    "aist_taxonomy": "independent",
+    "skill_verb": "pick",
+    "num_episodes": 50,
+    "date": "2025-04-09",
+    "download_url": "https://www.dropbox.com/scl/fi/28n6mpocag0kx8c3xnsd9/pick%5Ffoam%5Ftape%5Ffrom%5Frack.zip?rlkey=opug36qlb69xqohuid2g0xmsi&dl=1"
+  },
+  {
+    "task_id": 106,
+    "task_name": "fold_orange_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-04-04",
+    "download_url": "https://www.dropbox.com/scl/fi/kam277m81repxedxjlcnt/fold%5Forange%5Ftowel.zip?rlkey=70ao25odpg2gtlwiu9bqc2byg&dl=1"
+  },
+  {
+    "task_id": 107,
+    "task_name": "fold_light_blue_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-04-07",
+    "download_url": "https://www.dropbox.com/scl/fi/3b7td15484wydoik31r7q/fold%5Flight%5Fblue%5Ftowel.zip?rlkey=yodi5a7cdu12gof2hx8575cw7&dl=1"
+  },
+  {
+    "task_id": 108,
+    "task_name": "fold_green_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-04-08",
+    "download_url": "https://www.dropbox.com/scl/fi/snlchf5btdgaabo5tx3z4/fold%5Fgreen%5Ftowel.zip?rlkey=fr71t2q6qf2pifo5qgfw3iecl&dl=1"
+  },
+  {
+    "task_id": 109,
+    "task_name": "fold_towel_assist",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 100,
+    "date": "2025-04-09",
+    "download_url": "https://www.dropbox.com/scl/fi/a353p1pli6dnjizrrn1xo/fold%5Ftowel%5Fassist.zip?rlkey=fzs0ctwgzrak2qlnakghccs51&dl=1"
+  },
+  {
+    "task_id": 110,
+    "task_name": "fold_big_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 50,
+    "date": "2025-04-11",
+    "download_url": "https://www.dropbox.com/scl/fi/6xl9p8isaqafawiacwbql/fold%5Fbig%5Ftowel.zip?rlkey=mu8c0l0plg0g5ji1zfti2pxp6&dl=1"
+  },
+  {
+    "task_id": 111,
+    "task_name": "fold_bath_towel",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "fold",
+    "num_episodes": 50,
+    "date": "2025-04-15",
+    "download_url": "https://www.dropbox.com/scl/fi/jn2fsxcpxh1pjdduavc5g/fold%5Fbath%5Ftowel.zip?rlkey=lzd2d3g48oc4r29styfe035nw&dl=1"
+  },
+  {
+    "task_id": 112,
+    "task_name": "place_block_cup",
+    "aist_taxonomy": "Asynchronous Bimanual",
+    "skill_verb": "place",
+    "num_episodes": 390,
+    "date": "2025-05-19",
+    "download_url": "https://www.dropbox.com/scl/fi/swt64jsigyepqmkprexu5/place%5Fblock%5Fcup.zip?rlkey=q2406fyikood7d8ttxjuesib5&dl=1"
+  },
+  {
+    "task_id": 114,
+    "task_name": "spoon_red_block_bowl",
+    "aist_taxonomy": "independent",
+    "skill_verb": "spoon",
+    "num_episodes": 200,
+    "date": "2025-05-28",
+    "download_url": "https://www.dropbox.com/scl/fi/ilnmpykulgxh4mqiixhfb/spoon%5Fred%5Fblock%5Fbowl.zip?rlkey=0snmhkxktamfnc3nbniglpt27&dl=1"
+  },
+  {
+    "task_id": 116,
+    "task_name": "spoon_yellow_block_bowl",
+    "aist_taxonomy": "independent",
+    "skill_verb": "spoon",
+    "num_episodes": 400,
+    "date": "2025-06-05",
+    "download_url": "https://www.dropbox.com/scl/fi/o3xtqjie51oyoz0whn21i/spoon%5Fyellow%5Fblock%5Fbowl.zip?rlkey=e2di9za4iy9grnp0q9tn3ef3b&dl=1"
+  },
+  {
+    "task_id": 117,
+    "task_name": "place_tape_roll_case",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 50,
+    "date": "2024-12-27",
+    "download_url": "https://www.dropbox.com/scl/fi/f11i3jd5f3zp2o9buhimg/place%5Ftape%5Froll%5Fcase.zip?rlkey=pat3dpqn8d6h62xprfis6p5bf&dl=1"
+  },
+  {
+    "task_id": 118,
+    "task_name": "place_box_white_base_from_tray",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 52,
+    "date": "2024-11-29",
+    "download_url": "https://www.dropbox.com/scl/fi/2kdrmie1c79a4njtxhjr5/place%5Fbox%5Fwhite%5Fbase%5Ffrom%5Ftray.zip?rlkey=qu1oa7j43z55bbsf90okff2yo&dl=1"
+  },
+  {
+    "task_id": 119,
+    "task_name": "place_box_white_base_from_black_base",
+    "aist_taxonomy": "independent",
+    "skill_verb": "place",
+    "num_episodes": 52,
+    "date": "2024-11-29",
+    "download_url": "https://www.dropbox.com/scl/fi/sjww86vgpppkeq5ehy1df/place%5Fbox%5Fwhite%5Fbase%5Ffrom%5Fblack%5Fbase.zip?rlkey=gqd35rrkx6oebgj5yqf8c502c&dl=1"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "episode_id": "droid_000000",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000001",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000002",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000003",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000004",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000005",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000006",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000007",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000008",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000009",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000010",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000011",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000012",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000013",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000014",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000015",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000016",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000017",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000018",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000019",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000020",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000021",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000022",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000023",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000024",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000025",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000026",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000027",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000028",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000029",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000030",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000031",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000032",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000033",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000034",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000035",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000036",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000037",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000038",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000039",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000040",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000041",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000042",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000043",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000044",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000045",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000046",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000047",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000048",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000049",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000050",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000051",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000052",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000053",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000054",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000055",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000056",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000057",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000058",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000059",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000060",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000061",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000062",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000063",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000064",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000065",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000066",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000067",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000068",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000069",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000070",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000071",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000072",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000073",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000074",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000075",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000076",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000077",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000078",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000079",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000080",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000081",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000082",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000083",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000084",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000085",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000086",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000087",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000088",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000089",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000090",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000091",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000092",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000093",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000094",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000095",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000096",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000097",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000098",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  },
+  {
+    "episode_id": "droid_000099",
+    "task_name": "unknown task",
+    "description": "unknown task",
+    "objects": [],
+    "skills": [
+      "hold_and_manipulate",
+      "precision_placement"
+    ],
+    "coordination_type": "asymmetric_motion",
+    "quality_score": 0.85
+  }
+]
